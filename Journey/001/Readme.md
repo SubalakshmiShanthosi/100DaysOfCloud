@@ -1,49 +1,30 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](100DaysCloud.avif)
 
-# New post title here
+# Joining #100DaysOfCloud Challenge
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ I'm currently preparing for certifications on AWS - Solution Architect (Associate) and Developer(Associate).
 
-## Prerequisite
+I always believe that the best way of learning any technology is by doing projects/POC's to get better understanding of how the service/functionality works in real world scenarios. 
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+I find this #100DaysOfCloud very exciting and engaging. 
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+I'm looking for building cloud projects with element of AI and ML in them. 
+
+***My First Cloud project -***
+Hosting Static web application on Cloud (AWS).
+
+
+Hosting an Single Page Application (SPA) on AWS - 
+
+I have an Single page application (SPA) Calculator React App -- 
+Deploy this on serverless based architecture. 
+
+
+
 
 ## Social Proof
 
