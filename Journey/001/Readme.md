@@ -4,30 +4,19 @@
 
 ## Introduction
 
-✍️ I'm currently preparing for certifications on AWS - Solution Architect (Associate) and Developer(Associate).
+✍️ I'm currently preparing for certifications on AWS.
 
-I always believe that the best way of learning any technology is by doing projects/POC's to get better understanding of how the service/functionality works in real world scenarios. 
+I always believe that the best way of learning any technology is by doing projects/POC's to get better understanding of how the service/functionality works in real world scenarios.
 
-I find this #100DaysOfCloud very exciting and engaging. 
+I find this #100DaysOfCloud very exciting and engaging.
 
 ## Next Steps
 
-I'm looking for building cloud projects with element of AI and ML in them. 
+I'm looking for building cloud projects with element of AI and ML in them.
 
-***My First Cloud project -***
-Hosting Static web application on Cloud (AWS).
+ AWS Machine Learning - Associate (MLA-C01) Certification Preparation
 
+ Day 1 - Collect, Ingest, and Store Data 
 
-Hosting an Single Page Application (SPA) on AWS - 
-
-I have an Single page application (SPA) Calculator React App -- 
-Deploy this on serverless based architecture. 
-
-
-
-
+[ML 1.1 Collect Ingest and Store Introduction](CollectIngestStore_1.1_Intro.md)
 ## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
