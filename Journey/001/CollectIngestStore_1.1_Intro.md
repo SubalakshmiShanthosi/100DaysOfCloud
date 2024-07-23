@@ -37,3 +37,7 @@
 **EDA**
 Categorical data => Visualization techniques - Bar chart, Pie chart, Heatmaps
 Numeric data => Visualization techniques - Scatterplot, BoxPlot, Histogram, Density Plots.
+
+**AWS Storage Options**
+
+[Storage Options](StorageOptionsForData.md)
